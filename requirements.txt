@@ -1,4 +1,2 @@
 BinaryOptionsToolsV2
 websockets==11.0
-aiohttp
-nest-asyncio
